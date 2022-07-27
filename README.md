@@ -7,3 +7,5 @@ Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdL8D9z-N7JE3ipYXdgnFKiOZCf3
  
 Data is based on 20 question format of JAWS (Job-related Affective Well-being Scale)
 Demografic features collected are gender, salary, marital status, working experience and working mode
+
+Analysis was mainly done using Jupyter notebook and for Anova test IBM spss is used
